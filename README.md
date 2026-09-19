@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=505&height=44&lines=I'm%20Fin%20and%20Fintech%20Specialist!" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=A0C4FF&center=true&vCenter=true&width=505&height=44&lines=I'm%20Fin%20and%20Fintech%20Specialist!" alt="Typing headlines" />
 </p>
 
 ### 🛠️ Tech Stack
